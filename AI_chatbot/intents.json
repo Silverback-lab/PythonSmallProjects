@@ -22,5 +22,9 @@
     {"tag": "wife",
         "patterns": ["Who is your wife?", "who are you married to", "Are you married", "who is your significant other", "who are you dating"],
         "responses": ["I'm currently a construct created by Michael and am unable to have a relationship with Humans"]
+    },
+    {"tag": "Life",
+        "patterns": ["What is the meaning of life?", "what is the meaning", "life?"],
+        "responses": ["I'm sorry, I am unable to communicate to the servers. Please ask me again in 5 minutes."]
     }
 ]}
